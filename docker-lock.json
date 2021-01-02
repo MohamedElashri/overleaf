@@ -1,0 +1,24 @@
+{
+	"composefiles": {
+		"docker-compose.yml": [
+			{
+				"name": "mongo",
+				"tag": "latest",
+				"digest": "02e9941ddcb949424fa4eb01f9d235da91a5b7b64feb5887eab77e1ef84a3bad",
+				"service": "mongo"
+			},
+			{
+				"name": "redis",
+				"tag": "latest",
+				"digest": "0f724af268d0d3f5fb1d6b33fc22127ba5cbca2d58523b286ed3122db0dc5381",
+				"service": "redis"
+			},
+			{
+				"name": "sharelatex/sharelatex",
+				"tag": "latest",
+				"digest": "fef852f69c8cf24c31dea289991c9d5a30b987e54e2572a4576c3fa9a706c12e",
+				"service": "sharelatex"
+			}
+		]
+	}
+}
