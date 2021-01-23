@@ -4,19 +4,19 @@
 			{
 				"name": "mongo",
 				"tag": "latest",
-				"digest": "",
+				"digest": "88e0308671a06d4ee7da41f87944ba66355b4ee3d57d57caf92f5e1938736abd",
 				"service": "mongo"
 			},
 			{
 				"name": "redis",
 				"tag": "latest",
-				"digest": "",
+				"digest": "0f97c1c9daf5b69b93390ccbe8d3e2971617ec4801fd0882c72bf7cad3a13494",
 				"service": "redis"
 			},
 			{
 				"name": "sharelatex/sharelatex",
 				"tag": "latest",
-				"digest": "",
+				"digest": "eaa2b96320e8234e4440ff7f2db1de07a4187259ab3fdf2eeafb54538bd24931",
 				"service": "sharelatex"
 			}
 		]
