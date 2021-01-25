@@ -16,7 +16,7 @@
 			{
 				"name": "sharelatex/sharelatex",
 				"tag": "latest",
-				"digest": "eaa2b96320e8234e4440ff7f2db1de07a4187259ab3fdf2eeafb54538bd24931",
+				"digest": "2b7dd04de6915c427c5ed116d602eb02329466dcf76c4f506284685ba995bcc3",
 				"service": "sharelatex"
 			}
 		]
